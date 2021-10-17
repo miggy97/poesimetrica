@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "metrica-verso": "^1.0.2",
+    "randomcolor": "^0.6.2",
+    "riman": "^1.1.2",
     "vue": "^3.0.0"
   },
   "devDependencies": {
